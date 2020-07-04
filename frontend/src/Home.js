@@ -37,7 +37,9 @@ const Home = () => {
                 </Col>
                 <Col className="text-left" xs={10} md={10} lg={10}>
                   <p className="text-left">
-                    Use any standard tool to generate UML diagram.
+                    Use any standard tool to generate UML diagram. Please refer
+                    the UML-diagram given in 'extra-files' folder and do not
+                    make any fancy changes, otherwise it will not run.
                   </p>
                 </Col>
               </Row>
@@ -115,7 +117,7 @@ const Home = () => {
                       &#47;&#47; Link to download: <br />
                     </span>
                     <samp>
-                      https://github.com/mayuraitavadekar/uml-seq-test-case-generator
+                      https://github.com/mayuraitavadekar/uml-activity-test-case-generator
                     </samp>
                   </p>
                   <p className="text-left">
